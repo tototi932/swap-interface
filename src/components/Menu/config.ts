@@ -105,8 +105,8 @@ const config: MenuEntry[] = [
     icon: 'MoreIcon',
     items: [
       {
-        label: 'Team',
-        href: 'https://docs.bridgeswap.app/bridgeswap/our-team',
+        label: 'Whitepaper',
+        href: 'https://doge-gold-floki-finance.gitbook.io/dgf/',
       },
       // {
       //   label: 'Contact',
