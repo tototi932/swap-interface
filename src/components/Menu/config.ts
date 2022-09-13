@@ -2,7 +2,7 @@ import { MenuEntry } from '@pancakeswap-libs/uikit'
 
 const config: MenuEntry[] = [
   {
-    label: 'Home',
+    label: 'Home website',
     icon: 'HomeIcon',
     href: 'https://bridgeswap.app/',
   },
