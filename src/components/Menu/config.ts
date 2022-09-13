@@ -103,6 +103,7 @@ const config: MenuEntry[] = [
      label: 'Network status',
      icon: 'IfoIcon',
      href: 'https://pancakeswap.finance/ifo',
+     items: [
    },
   {
     label: 'More',
