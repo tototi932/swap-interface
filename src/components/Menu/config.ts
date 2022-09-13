@@ -119,7 +119,7 @@ const config: MenuEntry[] = [
        {
          label: 'AUDIT',
          href: 'https://github.com/BridgeSwap-Exchange',
-      // },
+       },
       // {
       //   label: 'Docs',
       //   href: 'https://docs.bridgeswap.app',
