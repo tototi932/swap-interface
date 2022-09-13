@@ -106,7 +106,7 @@ const config: MenuEntry[] = [
    },
   {
     label: 'More',
-    icon: 'MoreIcon',
+    icon: 'MoreIcon',,
     items: [
       {
         label: 'Whitepaper',
