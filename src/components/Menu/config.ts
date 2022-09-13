@@ -73,33 +73,33 @@ const config: MenuEntry[] = [
   //     },
   //   ],
   // },
-  // {
-  //   label: 'Info',
-  //   icon: 'InfoIcon',
-  //   items: [
-  //     {
-  //       label: 'Overview',
-  //       href: 'https://pancakeswap.info',
-  //     },
-  //     {
-  //       label: 'Tokens',
-  //       href: 'https://pancakeswap.info/tokens',
-  //     },
-  //     {
-  //       label: 'Pairs',
-  //       href: 'https://pancakeswap.info/pairs',
-  //     },
-  //     {
-  //       label: 'Accounts',
-  //       href: 'https://pancakeswap.info/accounts',
-  //     },
-  //   ],
-  // },
-  // {
-  //   label: 'IFO',
-  //   icon: 'IfoIcon',
-  //   href: 'https://pancakeswap.finance/ifo',
-  // },
+   {
+     label: 'Listings',
+     icon: 'InfoIcon',
+     items: [
+       {
+         label: 'Overview',
+         href: 'https://pancakeswap.info',
+       },
+       {
+         label: 'Tokens',
+         href: 'https://pancakeswap.info/tokens',
+       },
+       {
+         label: 'Pairs',
+         href: 'https://pancakeswap.info/pairs',
+       },
+       {
+         label: 'Accounts',
+         href: 'https://pancakeswap.info/accounts',
+       },
+     ],
+   },
+   {
+     label: 'Listings',
+     icon: 'IfoIcon',
+     href: 'https://pancakeswap.finance/ifo',
+   },
   {
     label: 'More',
     icon: 'MoreIcon',
