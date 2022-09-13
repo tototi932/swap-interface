@@ -78,25 +78,29 @@ const config: MenuEntry[] = [
      icon: 'InfoIcon',
      items: [
        {
-         label: 'Overview',
-         href: 'https://pancakeswap.info',
+         label: 'CoinMarketCap',
+         href: 'https://coinmarketcap.com/',
        },
        {
-         label: 'Tokens',
-         href: 'https://pancakeswap.info/tokens',
+         label: 'CoinGecko',
+         href: 'https://www.coingecko.com/',
        },
        {
-         label: 'Pairs',
-         href: 'https://pancakeswap.info/pairs',
+         label: 'Crypto.com',
+         href: 'https://crypto.com/',
        },
        {
-         label: 'Accounts',
-         href: 'https://pancakeswap.info/accounts',
+         label: 'DappRadar',
+         href: 'https://dappradar.com/',
+       },
+       {
+         label: 'Nomics',
+         href: 'https://nomics.com/',
        },
      ],
    },
    {
-     label: 'Listings',
+     label: 'Network status',
      icon: 'IfoIcon',
      href: 'https://pancakeswap.finance/ifo',
    },
@@ -110,15 +114,15 @@ const config: MenuEntry[] = [
       },
        {
          label: 'SAFU',
-         href: 'https://t.me/officialflutterswap',
+         href: 'https://doge-gold-floki-finance.gitbook.io/dgf/',
        },
        {
          label: 'KYC',
-         href: 'https://voting.pancakeswap.finance',
+         href: 'https://doge-gold-floki-finance.gitbook.io/dgf/',
        },
        {
          label: 'AUDIT',
-         href: 'https://github.com/BridgeSwap-Exchange',
+         href: 'https://doge-gold-floki-finance.gitbook.io/dgf/',
        },
       // {
       //   label: 'Docs',
