@@ -108,17 +108,17 @@ const config: MenuEntry[] = [
         label: 'Whitepaper',
         href: 'https://doge-gold-floki-finance.gitbook.io/dgf/',
       },
-      // {
-      //   label: 'Contact',
-      //   href: 'https://t.me/officialflutterswap',
-      // },
-      // {
-      //   label: 'Voting',
-      //   href: 'https://voting.pancakeswap.finance',
-      // },
-      // {
-      //   label: 'Github',
-      //   href: 'https://github.com/BridgeSwap-Exchange',
+       {
+         label: 'SAFU',
+         href: 'https://t.me/officialflutterswap',
+       },
+       {
+         label: 'KYC',
+         href: 'https://voting.pancakeswap.finance',
+       },
+       {
+         label: 'AUDIT',
+         href: 'https://github.com/BridgeSwap-Exchange',
       // },
       // {
       //   label: 'Docs',
