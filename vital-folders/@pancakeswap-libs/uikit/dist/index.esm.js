@@ -3148,12 +3148,12 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/bridgeswap_dex",
+        href: "https://twitter.com/Doge_Gold_Floki",
     },
     {
         label: "Medium",
         icon: "MediumIcon",
-        href: "https://bridgeswap.medium.com",
+        href: "https://medium.com/@Doge-Gold-Floki",
     },
     {
         label: "Gitbook",
