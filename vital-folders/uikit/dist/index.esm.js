@@ -3873,9 +3873,9 @@ var light$6 = {
     boxShadowSuccess: shadows.success,
     boxShadowWarning: shadows.warning,
     cardHeaderBackground: {
-        default: "linear-gradient(111.68deg, #505050 0%, #979797 100%)",
+        default: "linear-gradient(111.68deg, #000000 0%, #ffffff 100%)",
         blue: "linear-gradient(180deg, #A7E8F1 0%, #94E1F2 100%)",
-        violet: "linear-gradient(180deg, #505050 0%, #979797 100%)",
+        violet: "linear-gradient(180deg, #000000 0%, #979797 100%)",
     },
     dropShadow: "drop-shadow(0px 1px 4px rgba(25, 19, 38, 0.15))",
 };
