@@ -167,7 +167,7 @@ export default function CurrencyInputPanel({
                         currency.symbol.length - 5,
                         currency.symbol.length
                       )}`
-                    : currency?.symbol) || <Text color='text' style={{ backgroundColor: "#23E256", padding: "3px 5px", borderRadius: "9px"}}>{TranslateString(1196, 'Select a currency')}</Text>}
+                    : currency?.symbol) || <Text color='text' style={{ backgroundColor: "#f7ad19", padding: "3px 5px", borderRadius: "9px"}}>{TranslateString(1196, 'Select a currency')}</Text>}
                 </Text>
               )}
               {!disableCurrencySelect && <ChevronDownIcon color='background' />}
