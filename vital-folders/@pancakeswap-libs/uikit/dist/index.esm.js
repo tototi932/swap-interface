@@ -3158,7 +3158,7 @@ var socials = [
     {
         label: "Gitbook",
         icon: "GitbookIcon",
-        href: "https://bridgeswap-exchange-1.gitbook.io/bridgeswap/",
+        href: "https://doge-gold-floki-finance.gitbook.io/dgf/",
     },
     {
         label: "Telegram",
