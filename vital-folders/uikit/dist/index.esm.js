@@ -3850,7 +3850,7 @@ var brandColors = {
     binance: "#b8870b",
     overlay: "#b8870b"
 };
-var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#09092b", backgroundDisabled: "#9595e9", contrast: "#311b17", dropdown: "#F6F6F6", invertedContrast: "#FFFFFF", bright: "#ffffff", blue: "#17D2FB", input: "#ffffff", inputSecondary: "#d7caec", tertiary: "#EFF4F5", text: "#ffffff", textDisabled: "#dad5d5", textSubtle: "#8c8c8c", borderColor: "#551b10", card: "#080844", menuHover: "#F7AD19", gradients: {
+var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#000000", backgroundDisabled: "#9595e9", contrast: "#311b17", dropdown: "#F6F6F6", invertedContrast: "#FFFFFF", bright: "#ffffff", blue: "#17D2FB", input: "#ffffff", inputSecondary: "#d7caec", tertiary: "#EFF4F5", text: "#ffffff", textDisabled: "#dad5d5", textSubtle: "#8c8c8c", borderColor: "#551b10", card: "#080844", menuHover: "#F7AD19", gradients: {
         bluePurple: "linear-gradient(90.82deg, #FA00FF -73.84%, #17D2FB 141.1%)",
         bubblegum: "linear-gradient(245.94deg, rgba(8, 8, 56, 0.2) -63.8%, rgba(17, 17, 139, 0.2) 73.44%)",
     } });
@@ -3886,9 +3886,9 @@ var dark$6 = {
     boxShadowSuccess: shadows.success,
     boxShadowWarning: shadows.warning,
     cardHeaderBackground: {
-        default: "linear-gradient(166.77deg, #3B4155 0%, #3A3045 100%)",
+        default: "linear-gradient(166.77deg, #000000 0%, #0a0a0a 100%)",
         blue: "linear-gradient(180deg, #00707F 0%, #19778C 100%)",
-        violet: "linear-gradient(180deg, #6C4999 0%, #6D4DB2 100%)",
+        violet: "linear-gradient(180deg, #6C4999 0%, #000000 100%)",
     },
     dropShadow: "drop-shadow(0px 1px 4px rgba(25, 19, 38, 0.15))",
 };
