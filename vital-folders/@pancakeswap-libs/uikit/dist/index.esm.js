@@ -3166,7 +3166,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/bridgeswap",
+                href: "https://t.me/Doge_Gold_Floki",
             },
             // {
             //   label: "Bahasa Indonesia",
