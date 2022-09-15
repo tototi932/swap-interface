@@ -26,7 +26,7 @@ const Menu: React.FC = (props) => {
     <UikitMenu
       netLogo={chainId !== undefined ? getChainLogo(chainId) : undefined}
       netName={chainId !== undefined ? getChainName(chainId) : undefined}
-      platform="Exchange"
+      platform=" "
       links={links}
       account={account as string}
       login={login}
