@@ -19,12 +19,12 @@
       "logoURI": "https://dex.bridgeswap.app/images/coins/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
     },
     {
-      "name": "BridgeSwap Token",
-      "symbol": "BRIS",
-      "address": "0x79De52900178bD90c98E278cC30A635E65B18B1A",
+      "name": "Doge Gold Floki",
+      "symbol": "DGF",
+      "address": "0xdfbffb67295ecfb6cd44bc2decd24dc3d55edd07",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://dex.bridgeswap.app/images/coins/bris.png"
+      "logoURI": "https://app.doge-gold-floki.finance/images/symbols/sc.png"
     },
     {
       "name": "Decentralized USD",
