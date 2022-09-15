@@ -100,9 +100,9 @@ const config: MenuEntry[] = [
      ],
    },
    {
-     label: 'Network status',
+     label: 'Home Website',
      icon: 'IfoIcon',
-     href: 'https://pancakeswap.finance/ifo',
+     href: 'https://doge-gold-floki.finance/',
    },
   {
     label: 'More',
