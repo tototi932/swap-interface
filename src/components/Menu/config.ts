@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://bridgeswap.app/',
+    href: 'https://app.doge-gold-floki.finance/',
   },
   {
     label: 'Trade',
@@ -13,28 +13,28 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: '/swap',
+        href: 'https://dex.doge-gold-floki.finance/#/swap',
       },
       {
         label: 'Liquidity',
-        href: '/pool',
+        href: 'https://dex.doge-gold-floki.finance/#/pool',
       },
     ],
   },
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://bridgeswap.app/farms',
+    href: 'https://app.doge-gold-floki.finance/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://bridgeswap.app/pools',
+    href: 'https://app.doge-gold-floki.finance/pools',
   },
   {
     label: 'Lottery',
     icon: 'TicketIcon',
-    href: 'https://bridgeswap.app/lottery',
+    href: 'https://app.doge-gold-floki.finance/lottery',
     // status: {
     //   text: 'WIN',
     //   color: 'warning',
@@ -43,7 +43,7 @@ const config: MenuEntry[] = [
   {
     label: 'Referral Program',
     icon: 'ReferralIcon',
-    href: 'https://bridgeswap.app/referral'
+    href: 'https://app.doge-gold-floki.finance/referral'
   },
   // {
   //   label: 'Collectibles',
