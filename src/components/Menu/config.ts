@@ -118,11 +118,11 @@ const config: MenuEntry[] = [
        },
        {
          label: 'KYC',
-         href: 'https://doge-gold-floki-finance.gitbook.io/dgf/',
+         href: 'https://www.autentk.com/projects/25',
        },
        {
          label: 'AUDIT',
-         href: 'https://doge-gold-floki-finance.gitbook.io/dgf/',
+         href: 'https://github.com/Coinsult/solidity/blob/main/DogeGoldFlokiAudit.pdf',
        },
       // {
       //   label: 'Docs',
