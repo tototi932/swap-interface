@@ -95,7 +95,7 @@ const config: MenuEntry[] = [
        },
        {
          label: 'Nomics',
-         href: 'https://nomics.com/',
+         href:'https://nomics.com/assets/dgf2-doge-gold-floki/',
        },
      ],
    },
