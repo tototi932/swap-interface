@@ -83,15 +83,15 @@ const config: MenuEntry[] = [
        },
        {
          label: 'CoinGecko',
-         href: 'https://www.coingecko.com/',
+         href: 'https://www.coingecko.com/en/coins/doge-gold-floki',
        },
        {
          label: 'Crypto.com',
-         href: 'https://crypto.com/',
+         href: 'https://crypto.com/price/ico-calendar/detail/Doge%20Gold%20Floki%20-486',
        },
        {
          label: 'DappRadar',
-         href: 'https://dappradar.com/',
+         href: 'https://dappradar.com/binance-smart-chain/high-risk/doge-gold-floki',
        },
        {
          label: 'Nomics',
@@ -114,7 +114,7 @@ const config: MenuEntry[] = [
       },
        {
          label: 'SAFU',
-         href: 'https://doge-gold-floki-finance.gitbook.io/dgf/',
+         href: 'https://github.com/ContractChecker/SAFU/blob/main/DogeGoldFloki_0x7C22A844e3358DBB7c90B1A299E5C650B14CD21f_SAFU_Certificate_By_ContractChecker.pdf',
        },
        {
          label: 'KYC',
